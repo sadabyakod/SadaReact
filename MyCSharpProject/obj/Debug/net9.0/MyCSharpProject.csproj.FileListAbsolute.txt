@@ -1,0 +1,15 @@
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\bin\Debug\net9.0\MyCSharpProject.exe
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\bin\Debug\net9.0\MyCSharpProject.deps.json
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\bin\Debug\net9.0\MyCSharpProject.runtimeconfig.json
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\bin\Debug\net9.0\MyCSharpProject.dll
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\bin\Debug\net9.0\MyCSharpProject.pdb
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.AssemblyInfoInputs.cache
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.AssemblyInfo.cs
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.sourcelink.json
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.dll
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\refint\MyCSharpProject.dll
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.pdb
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\MyCSharpProject.genruntimeconfig.cache
+C:\Users\sadab\OneDrive\Desktop\My Projects\react-crud-app\MyCSharpProject\obj\Debug\net9.0\ref\MyCSharpProject.dll

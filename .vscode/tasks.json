@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Debug .NET API",
+			"type": "shell",
+			"command": "dotnet run --launch-profile Development",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Debug .NET API",
+			"type": "shell",
+			"command": "dotnet build --configuration Debug && dotnet run --launch-profile https",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		}
+	]
+}
